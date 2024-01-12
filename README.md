@@ -1,8 +1,5 @@
 # Windows11
 
-
-# WINDOWS 11
-
 Windows 11 is the latest major release of Microsoft's Windows NT operating system, released on October 5, 2021. It succeeded Windows 10 and is available for free for any Windows 10 devices that meet the new Windows 11 system requirements.
 
 Here are some of the key features of Windows 11:
